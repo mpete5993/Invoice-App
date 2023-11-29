@@ -1,6 +1,6 @@
 
 
-#INVOICE APP 
+# INVOICE APP 
 
 Invoice app built with laravel and Vue.js
 
